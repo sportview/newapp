@@ -14,4 +14,6 @@ class student:
     def setpasword(self,password):
         self._password=password
     def getPassword(self):
-        return self._password    
+        return self._password   
+
+hilder=student("hilder","P.O BOX 10202 NAIROBI","kamauc63@gmail.com","0706641899","Kingdom OF Jesus")
